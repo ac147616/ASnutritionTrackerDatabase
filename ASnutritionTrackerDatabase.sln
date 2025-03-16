@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ASnutritionTrackerDatabase", "ASnutritionTrackerDatabase.sqlproj", "{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EAC382-82ED-44FF-8CA9-F4D06E2B53DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F42967-ADFC-4DD7-9ED8-3E47FC4CA40A}
+	EndGlobalSection
+EndGlobal
